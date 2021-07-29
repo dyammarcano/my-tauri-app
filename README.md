@@ -7,10 +7,10 @@ npm install
 
 ### Start dev server with HMR
 ```
-npm tauri:serve
+npm run tauri:serve
 ```
 
 ### Build executable
 ```
-npm tauri:build
+npm run tauri:build
 ```
