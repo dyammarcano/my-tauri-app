@@ -5,20 +5,12 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Start dev server with HMR
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+npm tauri:serve
 ```
 
-### Lints and fixes files
+### Build executable
 ```
-npm run lint
+npm tauri:build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
